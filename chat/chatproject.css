@@ -1,0 +1,78 @@
+.chat{
+    margin: auto;
+    width: 500px;
+    
+}
+
+.container{
+    background-image: radial-gradient(circle, #fffe00, #fffe19, #fffe26, #fffe30, #fffe39, #fcfb39, #faf938, #f7f638, #f1f02f, #eceb24, #e6e517, #e1e000);
+}
+.input{
+    width: 75%;
+    background-image: radial-gradient(circle, #00ff90, #04ff8e, #09ff8c, #0dff8a, #11ff88, #0cff8b, #08ff8e, #03ff91, #00ff9a, #00ffa2, #00ffaa, #00ffb1);
+}
+.child{
+    width: 50%;
+    margin: auto;
+    font-family: 'Mali', cursive;
+   
+}
+.text{
+    width: 50%;
+    margin: auto;
+    font-family: 'Mali', cursive;
+}
+.hedline{
+    width: 50%;
+    margin: auto;
+    font-family: 'Mali', cursive;
+}
+body{
+    background-image: radial-gradient(circle, #c6ff23, #d3bb00, #bf7f1e, #934d2b, #582a27, #3c1e20, #221315, #000000, #000000, #000000, #000000, #000000);
+    background-repeat: no-repeat;
+}
+.h1{
+    font-family: 'Mali', cursive;
+    color:#F9F871;
+}
+.news{
+    width: 50px;
+    font-family: 'Mali', cursive;
+    color:#F9F871;
+}
+.band{
+    display: flex;
+}
+.btn{
+    color: #F7FF00;
+    background-image: radial-gradient(circle, #00ff90, #04ff8e, #09ff8c, #0dff8a, #11ff88, #0cff8b, #08ff8e, #03ff91, #00ff9a, #00ffa2, #00ffaa, #00ffb1);
+}
+.name{
+    color: #F7FF00;
+    font-family: 'Mali', cursive;
+    width: 200px;
+    
+    
+}
+.bottom-right {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+   
+}
+.test{
+    border-radius:0px ;
+    background-color: #000000;
+    color:#F7FF00 ;
+}
+.delay{
+    background-color: #000000;
+    color:#F7FF00 ;
+}
+.cancel{
+    background-color: #000000;
+    color:#F7FF00 ;
+}
+html,body{
+    height: 100%;
+}
