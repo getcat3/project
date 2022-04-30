@@ -73,3 +73,6 @@ body{
     background-color: #000000;
     color:#F7FF00 ;
 }
+html,body{
+    height: 100%;
+}
